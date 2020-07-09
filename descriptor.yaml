@@ -10,4 +10,3 @@ components:
     - ui/widgets/conference/detailsWidget/conference-details-widget-descriptor.yaml
     - ui/widgets/conference/formWidget/conference-form-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
-
